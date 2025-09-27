@@ -8,10 +8,12 @@ Original project link: https://github.com/yh2mai/ShakespearGRU
 
 ## Project Structure
 
-.
 ├── ShakespearGRU.ipynb   # Main Jupyter Notebook
+
 ├── data/                 # Folder containing training text dataset
+
 ├── README.md             # Project documentation
+
 └── requirements.txt      # Python dependencies
 
 ## Features
