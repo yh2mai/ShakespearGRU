@@ -1,4 +1,4 @@
-# Shakespeare Text Generation with GRU
+# Shakespear Text Generation with GRU
 
 This project implements a character-level language model using a GRU (Gated Recurrent Unit) network to generate Shakespeare-style text. The implementation is provided in the Jupyter Notebook `ShakespearGRU.ipynb`.
 
